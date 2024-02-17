@@ -44,7 +44,7 @@ This project contains scripts for ESP8266 (using Arduino IDE) and Python, allowi
 - Make sure the Python script is running on a computer on the local network.
 - Don't forget to modify the `PORT` in the Python script if you're using a port other than 1234.
 
-### Photos 
+## Photos 
 
 ![IMG_2137](https://github.com/kolinov2/Auto-Alt-Tab/assets/94188817/b5507fb7-4871-4287-a662-e1b3ea3b9a15)
 
