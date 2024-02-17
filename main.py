@@ -17,7 +17,7 @@ def start_server():
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.bind((HOST, PORT))
         s.listen()
-        print("Waiting to be connected...")
+        print("listens on port:",PORT)
         while True:
             conn, addr = s.accept()
             with conn:
