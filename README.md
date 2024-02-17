@@ -50,7 +50,7 @@ This project contains scripts for ESP8266 (using Arduino IDE) and Python, allowi
 
 ## Author
 
-This project was created by [kolinov2].
+This project was created by kolino_v.
 
 ## Inspiration
 I saw the video on instagram:
