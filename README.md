@@ -37,6 +37,7 @@ This project contains scripts for ESP8266 (using Arduino IDE) and Python, allowi
 - Modify `ssid` and `password` in the Arduino script to the appropriate values for your Wi-Fi network.
 - Adjust `serverIP` in the Arduino script to the IP address of your computer.
 - Adjust `detectionDistance` in the Arduino script to your liking.
+- Adjust `tick` in the Arduino script to your liking.
   
 ### Python
 
