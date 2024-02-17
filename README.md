@@ -1,7 +1,7 @@
 # Auto-Alt-Tab with ESP8266
 A simple project for alt-tabbing when the sensor detects movement (e.g. opening a door ;) )
 
-![ESP8266](https://img.shields.io/badge/ESP8266-Compatible-blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-Compatible-blue) 
 
 This project contains scripts for ESP8266 (using Arduino IDE) and Python, allowing for motion detection using an ultrasonic sensor and sending motion information via Wi-Fi to a computer.
 
